@@ -251,7 +251,7 @@ img {
     gap: 60px;
     align-items: center;
     position: relative;
-    z-index: 1;
+ 
 }
 
 .hero-greeting {
@@ -262,7 +262,7 @@ img {
 }
 
 .hero-title {
-    font-size: 4rem;
+    font-size: 3.5rem;
     font-weight: 700;
     margin-bottom: 15px;
     background: var(--gradient-1);
